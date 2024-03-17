@@ -1,1 +1,3 @@
 # CarPriceEstimator
+
+This is a mobile application that provides a comprehensive solution for car price estimation, whether they are new or used. Designed to be accessible to users looking to buy or sell a car, it offers a quick estimate based on key information such as the brand, model, year of manufacture, and mileage. Users can also view their estimation history and evaluate their experiences. Additionally, a back-office agent can manage users and car-related information. Our application aims to provide a seamless and reliable experience, thus contributing to users' trust in the car price estimation process.
